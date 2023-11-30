@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+DAY=$1
+
+pytest $DAY/main.py && python $DAY/main.py
