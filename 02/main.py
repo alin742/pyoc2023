@@ -1,4 +1,3 @@
-import numpy as np
 INPUT = "input.txt"
 SAMPLE = "sample.txt"
 SAMPLE_PART1 = 8 # Add Results of part1 sample

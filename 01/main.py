@@ -1,4 +1,3 @@
-import numpy as np
 INPUT = "input.txt"
 SAMPLE = "sample.txt"
 SAMPLE2 = "sample2.txt"
