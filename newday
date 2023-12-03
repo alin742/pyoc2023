@@ -2,4 +2,4 @@
 
 DAY=$1
 
-mkdir -p $DAY && cp template/* $DAY
+mkdir -p $DAY && cp template/* $DAY && mv $DAY/template.py $DAY/main.py
